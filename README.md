@@ -4,4 +4,4 @@ Deep dive into distributed systems and its application blockchain
 
 | Article        | Summary       |
 | ---------------| ------------- |
-| bla.pdf        | descr1        |
+| Handling message semantics with Generic Broadcast protocols.pdf        | descr1        |
