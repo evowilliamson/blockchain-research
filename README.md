@@ -1,4 +1,4 @@
-Deep dive into distributed systems and its application blockchain
+Research on distributed systems and blockchain, preparing for master thesis
 
 # Articles
 
