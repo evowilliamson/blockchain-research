@@ -8,3 +8,6 @@ F. Pedone, A. Schiper, 2000 | [Handling message semantics with Generic Broadcast
 M. Kawazoe Aguilera, C. Delporte-Gallet, H. Fauconnier, S. Toueg, 2000 | [Thrifty generic broadcast](/articles/Thrifty%20generic%20broadcast.pdf) | | 2%, stopped, reading [Atomic broadcast From simple message diffusion to Byzantine agreement](/articles/Atomic%20broadcast%20From%20simple%20message%20diffusion%20to%20Byzantine%20agreement.pdf)|  [Atomic broadcast From simple message diffusion to Byzantine agreement](/articles/Atomic%20broadcast%20From%20simple%20message%20diffusion%20to%20Byzantine%20agreement.pdf)    |
 F. Christian, H. Aghili, R. Strong, D. Dolev, 1994 | [Atomic broadcast From simple message diffusion to Byzantine agreement](/articles/Atomic%20broadcast%20From%20simple%20message%20diffusion%20to%20Byzantine%20agreement.pdf) | Provides a good introduction of several key concepts of distributed systems | 0% |     |
 IBM 2018 | [Hyperledger Fabric](/articles/Hyperledger%20Fabric.pdf) | | 100% | [Handling message semantics with Generic Broadcast protocols](/articles/Handling%20message%20semantics%20with%20Generic%20Broadcast%20protocols.pdf) |
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1NDU1OTgzNDJdfQ==
+-->
